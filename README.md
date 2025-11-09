@@ -109,6 +109,12 @@ bash wef
 
 Take a look at the [Wiki](https://github.com/D3Ext/WEF/wiki/Installation) where I have more info about the tool
 
+## Easy Start
+> Common usage of the framework (your interface may have other name)
+```sh
+sudo ./start.sh
+```
+
 ## Usage
 
 > Common usage of the framework (your interface may have other name)
